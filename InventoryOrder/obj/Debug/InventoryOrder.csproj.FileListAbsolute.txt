@@ -1,0 +1,295 @@
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.FatoraModule.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.ProductModules.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Properties.Resources.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.GenerateResource.cache
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.CoreCompileInputs.cache
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.exe.config
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.exe
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.pdb
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.exe
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.pdb
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Fatora.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Mainform.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Product.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.UpdateProducts.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Cash.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.ReturnRealdataaboutfatora.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.LookUpProducts.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Qty.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Reciept.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.CopyComplete
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\EnvDTE.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\stdole.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.MSXML.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\RdlCompile.cache
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\RdlCompile.compiled
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Store.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.GenerateBackUP.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.RestoreBackUP.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Clients.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.UpdateClients.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Record.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Reports.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.About.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Login.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Forgetpass.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.UpdateUsers.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Users.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Dashboard.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.ResolveComReference.cache
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Damaged.resources
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.DamgedSticker.resources
+E:\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.exe.config
+E:\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.exe
+E:\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.pdb
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\EnvDTE.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\stdole.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.MSXML.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.AssemblyReference.cache
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.ResolveComReference.cache
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.About.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Clients.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Damaged.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.DamgedSticker.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Dashboard.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.FatoraModule.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Fatora.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Forgetpass.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.GenerateBackUP.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Login.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.LookUpProducts.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Mainform.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Cash.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Product.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.ProductModules.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Qty.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Reciept.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Record.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Reports.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.RestoreBackUP.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.ReturnRealdataaboutfatora.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Store.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.UpdateClients.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.UpdateProducts.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.UpdateUsers.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Users.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Properties.Resources.resources
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.GenerateResource.cache
+E:\InventoryOrder\InventoryOrder\obj\Debug\RdlCompile.cache
+E:\InventoryOrder\InventoryOrder\obj\Debug\RdlCompile.compiled
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.CoreCompileInputs.cache
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.CopyComplete
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.exe
+E:\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.pdb
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.exe.manifest
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.application
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.exe.manifest
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.application
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.AssemblyReference.cache
+E:\C# Projects\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.ReturnCash.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.exe.config
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.exe.manifest
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.application
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.exe
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\InventoryOrder.pdb
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\EnvDTE.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\stdole.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\Microsoft.MSXML.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.AssemblyReference.cache
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.SuggestedBindingRedirects.cache
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.ResolveComReference.cache
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.About.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Clients.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Damaged.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.DamgedSticker.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Dashboard.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.FatoraModule.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Fatora.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Forgetpass.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.GenerateBackUP.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Login.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.LookUpProducts.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Mainform.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Cash.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Product.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.ProductModules.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Qty.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Reciept.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Record.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.ReturnCash.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Reports.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.RestoreBackUP.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.ReturnRealdataaboutfatora.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Store.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.UpdateClients.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.UpdateProducts.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.UpdateUsers.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Forms.Users.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.Properties.Resources.resources
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.GenerateResource.cache
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.CoreCompileInputs.cache
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.exe.manifest
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.application
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.csproj.CopyComplete
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.exe
+E:\C# Projects\Mohsen\BackUP\Mohsen\Order\InventoryOrder\InventoryOrder\obj\Debug\InventoryOrder.pdb
